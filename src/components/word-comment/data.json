@@ -1,0 +1,65 @@
+{
+  "code": 1,
+  "data": [
+    {
+      "endIndex": 21,
+      "pid": "p0",
+      "selectContent": "，编辑跟我",
+      "startIndex": 16,
+      "gid": 1,
+      "commentDetail": [
+        {
+          "cid": 0,
+          "content": "我是评论内容"
+        },
+        {
+          "cid": 22,
+          "content": "我是评论内容 +1"
+        }
+      ]
+    },
+    {
+      "endIndex": 50,
+      "pid": "p0",
+      "selectContent": "4000 册",
+      "startIndex": 44,
+      "gid": 2,
+      "commentDetail": [
+        {
+          "cid": 1,
+          "content": "群众的眼睛是雪亮的"
+        }
+      ]
+    },
+    {
+      "endIndex": 53,
+      "pid": "p0",
+      "selectContent": "毕竟首印有 4000 册呢，",
+      "startIndex": 39,
+      "gid": 3,
+      "commentDetail": [
+        {
+          "cid": 2,
+          "content": "感谢大家"
+        },
+        {
+          "cid": 33,
+          "content": "据说销量已经破万了"
+        }
+      ]
+    },
+    {
+      "endIndex": 83,
+      "pid": "p1",
+      "selectContent": "太便宜心里有负担",
+      "startIndex": 75,
+      "gid": 4,
+      "commentDetail": [
+        {
+          "cid": 2,
+          "content": "通用的哈~\n            由于git"
+        }
+      ]
+    }
+  ]
+}
